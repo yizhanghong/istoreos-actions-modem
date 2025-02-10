@@ -16,7 +16,7 @@ env:
   REPO_URL: https://github.com/istoreos/istoreos
   # REPO_BRANCH: main
   FEEDS_CONF: feeds.conf
-  CONFIG_FILE: .config-2305
+  CONFIG_FILE: x86/.config-2305
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
   UPLOAD_BIN_DIR: true
