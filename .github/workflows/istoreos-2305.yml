@@ -1,5 +1,5 @@
 
-name: Build iStore OS 2305
+name: Build iStore OS 23.05
 
 on:
   repository_dispatch:
